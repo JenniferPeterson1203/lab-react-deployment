@@ -14,7 +14,7 @@ This lab is to give you practice learning to deploy an application as well as to
 
 1. Copy the address of your deployed app
 
-1. Navigate to teh README.md file.
+1. Navigate to the README.md file.
 
 1. Paste the link in the Parentheses of the `[MY LIVE SITE URL]()` portion:
 
