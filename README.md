@@ -24,7 +24,7 @@ This lab is to give you practice learning to deploy an application as well as to
 
 ### Here are written instructions for deployment
 
-Follow the appropriate deployment instructions from the [guides repository](https://github.com/pursuit-curriculum-resources/guide-deployment)
+[Netlify-Vite-Instructions](https://github.com/pursuit-curriculum-resources/guide-deployment/tree/main/netlify-vite-react)
 
 ### Here are video instructions for deployment
 
