@@ -29,3 +29,4 @@ This lab is to give you practice learning to deploy an application as well as to
 ### Here are video instructions for deployment
 
 [Netlify Deployment Video Demos](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md)
+# Jennifer-App
